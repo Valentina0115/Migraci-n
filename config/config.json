@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "sussy1712",
+    "database": "DB_block",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "sussy1712",
+    "database": "DB_block",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "sussy1712",
+    "database": "DB_block",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
